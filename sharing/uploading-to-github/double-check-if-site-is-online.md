@@ -13,7 +13,7 @@ You can easily get to your repository page in [Github.com](https://github.com) f
 Open the Actions page and see if the status looks ok.
 
 {% hint style="danger" %}
-If the top most deployment doesn't have a checkmark [check this video below](double-check-if-site-is-online.md#force-page-rebuild-video) to see how you can force Github to try to rebuild the page.
+If the top most deployment doesn't have a checkmark [check this video below](double-check-if-site-is-online.md#force-page-to-re-deploy-video) to see how you can force Github to try to rebuild the page.
 {% endhint %}
 
 ![Checkmark means it should be online...](../../.gitbook/assets/githubpages-check-build-status.png)
@@ -26,7 +26,7 @@ You can open the website by first opening the next page by clicking the title ne
 
 ### Force page to re-deploy (video)
 
-The gist of it is that you disable "Github pages" and then enable it again, which will trigger a rebuild. See the video below...
+Sometimes a page build can fail for no apparent reason or just never finish. If that happens, you can force Github to re-deploy the website by disabling and immediately enabling "Github pages". See the video below...
 
 {% hint style="warning" %}
 If the deployment looks to be in `queue` or `progress` try canceling it first.
