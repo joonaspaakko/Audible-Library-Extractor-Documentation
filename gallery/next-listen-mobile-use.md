@@ -1,11 +1,11 @@
 # Find next listen & mobile use
 
-After the gallery is uploaded online, you can show others what you have in your Audible library by sharing a link to the gallery, but it can also be super useful for finding new books from your library to listen to. Using the gallery to find a book to listen to and then opening it in Audible's mobile app is very streamlined.
+After the gallery has been uploaded online, you can show others what you have in your Audible library by sharing a link to it, but it can also serve the purpose of helping you find your next listen on mobile. Obviously theg is available for you to use on a desktop computer immediately.&#x20;
 
 Below I've listed some key features that may not be immediately obvious, but make it really easy to use the gallery in conjunction with the mobile app.
 
 {% hint style="danger" %}
-You have to upload the gallery online to use it on mobile. Check upload instructions [here](../sharing/uploading-to-github/). You will also need an internet connection to use the gallery on mobile. That said, you may be able to use the Chrome extension on the [Kiwi browser](https://kiwibrowser.com) locally on Android.
+You have to upload the gallery online to use it on mobile. Check upload instructions [here](../sharing/uploading-to-github/).&#x20;
 {% endhint %}
 
 ### Open book in Audible's mobile app
@@ -30,7 +30,9 @@ Clicking a book title/row takes you to the [series subpage](https://joonaspaakko
 
 You can save the website as an icon to your mobile device's home screen just like any website ([instructions](https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/)).
 
-Adding a home screen icon isn't necessary, but it does make it **easier to quickly open the gallery**. It **opens as a standalone **_**"app"**_, so it won't get drowned out by other tabs in the browser. Additionally, it opens **fullscreen** without an `address bar`, `back`, and `forward` button and other browser controls, as you see in the animated gif at the top of this article.&#x20;
+Adding the home screen icon isn't necessary, but it does make it easier to access, especially if you open it like daily. Also, it won't oopen the gallery in your browser as a tab but rather as it's own app window.&#x20;
+
+> You have to do this only onc. When you update the gallery online, all you have to do is (maybe) close the "app" and then open in from the icon.
 
 ![](../.gitbook/assets/gallery-homescreen-icon-300px.jpg)
 
@@ -39,3 +41,10 @@ Adding a home screen icon isn't necessary, but it does make it **easier to quick
 {% hint style="info" %}
 Since the home screen icon is basically a glorified bookmark that saves the current address as is, you can change filtering and sorting before saving the icon and it will remember those settings when it's opened. For example, you can make the icon open your library while excluding `started` and `finished` books.
 {% endhint %}
+
+{% hint style="success" %}
+There used to be a bug on iOS in this standalone mode, when it's saved to the home screen, where it would stop playing audio on lock ascreen or really whenever the "app" wasn't in focus. This has been fixed on iOS 15.4.1.
+
+So now, as long as your iOS is up to date, you can listen to the samples or books using the cloud player (blue audible icon in the gif) in every version of the gallery without having to keep the app open.
+{% endhint %}
+
