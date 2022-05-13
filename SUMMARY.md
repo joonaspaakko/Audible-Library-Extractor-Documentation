@@ -3,6 +3,7 @@
 * [Audible Library Extractor](README.md)
 * [Installation](installation/README.md)
   * [Edge installation instructions](installation/edge-installation-instructions.md)
+  * [Uninstall](installation/uninstall.md)
 * [How to use the extension](how-to-use-the-extension.md)
 
 ## Gallery
