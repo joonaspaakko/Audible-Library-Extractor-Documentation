@@ -16,16 +16,26 @@ For example, if you want to save an image with covers from a specific collection
 
 ### **Available cover exclusion settings**
 
+In the sidebar on the right, look for headings:
+
 * Exclude archived books
 * Limit cover images
-  * You can manually sort covers by dragging them around. If you sort unwanted covers to the bottom and lower the cover cove limit, the unwanted covers will get dropped out.
+  * You can also manually sort covers by dragging them around, so if you sort unwanted covers to the bottom and lower the cover limit, the unwanted covers will get dropped out.
 
-{% hint style="warning" %}
-You can also exclude covers to a certain degree by using filters and/or searching before opening the editor. The page sorting is also retained, but you can also manually sort covers in the editor.
+{% hint style="success" %}
+Perhaps the best exclusion comes from the gallery. Before you open this wallpaper creator from the icon, you can filters and/or search books in the gallery to limit what ends up in this editor.&#x20;
+
+And similarly, like I already mentioned above, you can simply open a specific page before the wallpaper creator, like for instance a specific collections or series page and that will be used as the source.
+
+Sorting is also retained.
 {% endhint %}
 
-### <img src="../../.gitbook/assets/PixelSnap 2021-08-27 at 14.55.48.png" alt="" data-size="original"> Saving / compression
+### <img src="../../.gitbook/assets/PixelSnap 2021-08-27 at 14.55.48.png" alt="" data-size="original"> Saving & compression
 
 Use the blue circle shaped button in the sidebar to save your image or animated wallpaper.
 
-By default images are compressed and therefore saved as **jpg**. You can choose to disable compression under the options heading **"Reduce file size"**. I wouldn't recommend it unless you want to save the image with a transparent or translucent background color. Uncompressed image are saved as **png**. The reason why compression is enabled by default is that **png** files can get huge pretty fast.
+By default images are compressed and therefore saved as **jpg**. You can choose to disable compression on the sidebar on the right under the heading **"Reduce file size"**. You should only disable compression if you don't mind the potentially huge filesize, or you really need to save the image with a transparent or translucent background color. Uncompressed image is saved as **png**.
+
+### Animated wallpaper or Screensaver
+
+The editor has a mode for animated wallpapers or screensavers that switches cover images in an infinite loop. Check the next page for more info on that.
