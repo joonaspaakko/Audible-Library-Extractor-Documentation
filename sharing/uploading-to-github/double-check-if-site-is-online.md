@@ -4,7 +4,7 @@ After you upload or update the gallery to Github it may take a few minutes or ev
 
 ### Step 1 - Going to the repository in Github.com
 
-You can easily get to your repository page in [Github.com](https://github.com) from the Github Desktop client.
+You can easily get to your repository page in [Github.com](https://github.com/) from the Github Desktop client.
 
 ![](../../.gitbook/assets/ale-github-pages-environments-0.png)
 
@@ -26,7 +26,7 @@ You can open the website by first opening the next page by clicking the title ne
 
 ### Force page to re-deploy (video)
 
-Sometimes a page build can fail for no apparent reason or just never finish. If that happens, you can force Github to re-deploy the website by disabling and immediately enabling "Github pages". See the video below...
+Sometimes a page build can fail for no apparent reason or just never finish. If that happens, you can force Github to re-deploy the website by disabling and immediately enabling "Github pages". See the video below. If you don't have the "Actions" tab it should still work if you do the first part of the video up to 0:30.
 
 {% hint style="warning" %}
 If the deployment looks to be in `queue` or `progress` try canceling it first.

@@ -1,7 +1,7 @@
 # Uninstall
 
 {% hint style="info" %}
-You can also disable the extension from this "extensions page Using the blue switch. Removing obviously deletes all extracted data, while disabling doesn't.
+You can also disable the extension from the extensions page Using the blue switch. Removing obviously deletes all extracted data, while disabling doesn't.
 {% endhint %}
 
 ### Chrome
