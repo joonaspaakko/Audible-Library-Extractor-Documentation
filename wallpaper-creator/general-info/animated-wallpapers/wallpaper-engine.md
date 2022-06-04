@@ -1,5 +1,7 @@
 # Wallpaper Engine
 
+Lively can be used to make a website your desktop wallpaper and a screensaver on **Windows**.
+
 {% hint style="warning" %}
 At this point you should have saved the animated wallpaper and extracted the .zip file into a safe location, that is hopefully not the Downloads folder so you won't accidentally remove it.
 {% endhint %}

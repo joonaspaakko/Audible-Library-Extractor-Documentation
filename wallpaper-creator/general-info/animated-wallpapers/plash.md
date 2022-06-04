@@ -1,5 +1,9 @@
 # Plash
 
+Plash can be used to set a website as your desktop wallpaper on **Mac**.
+
+If you'd also want to set it as a Screensaver, look into https://github.com/liquidx/webviewscreensaver.
+
 {% hint style="warning" %}
 At this point you should have saved the animated wallpaper and extracted the .zip file into a safe location, that is hopefully not the Downloads folder so you won't accidentally remove it.
 {% endhint %}
