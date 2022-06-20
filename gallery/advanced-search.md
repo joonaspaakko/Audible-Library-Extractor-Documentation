@@ -4,13 +4,15 @@ The search has advanced functionality for making your searches more specific and
 
 ## Search operators&#x20;
 
-These "operators" are characters that serve specific function. Normally the space character is equal to **`and`**, so the search for `demon accords` translates to `contains 'demon' and 'accords'`. Although the search is quite forgiving and may return books that don't fit criteria a 100%. The vertical bar **`|`** on the other hand is equal to **`or`**, so the search for `demon | accords` translates to `contains 'demon' or 'accords '`. For example, you could search for multiple authors by separating each name with a vertical bar. You can also nullify the **`and`** operator by wrapping the words in double quotes **`"`**. For example `"demon accords"` would translate to `contains 'demon accords'`.
+These "operators" are characters that serve specific function. Normally the space character is equal to **`and`**, so the search for `demon accords` translates to `contains 'demon' and 'accords'`. Although the search is quite forgiving and may return books that don't fit the criteria a 100%. The vertical bar **`|`** on the other hand is equal to **`or`**, so the search for `demon | accords` translates to `contains 'demon' or 'accords '`. For example, you could search for multiple authors by separating each name with a vertical bar. You can also nullify the **`and`** operator by wrapping the words in double quotes **`"`**. For example `"demon accords"` would translate to `contains 'demon accords'`.
 
 {% hint style="info" %}
-The microscope icon on the search bar allows you to specify where to search. I wiould say yiou oprobably don't need to change these much either, but if you're searching for authors, it might make sense to make that the only search scope to prevent false matches.&#x20;
+The microscope icon on the search bar allows you to specify where to search. I would say you probably don't need to change these much either, but if you're searching for authors, it might make sense to make that the only search scope to prevent false matches.&#x20;
 {% endhint %}
 
 ### Quick example
+
+Before looking at the full list of search operators, here's a quick recap and an example using the $ operator, which equates to "ends in" the supplied search query. It's always used as a suffix.
 
 | Search query                   | Meaning                                                    |
 | ------------------------------ | ---------------------------------------------------------- |
