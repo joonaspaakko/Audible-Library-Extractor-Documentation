@@ -6,7 +6,7 @@ description: >-
 
 # My books in the series list
 
-It's really useful for finding the next book in the series because the statuses are clearly indicated with icons and some other visual cues. Finished books and books you don't own are dimmer so it's easier to find the next book in the series.
+It's really useful for finding the next book in the series because the statuses are clearly indicated with icons and some other visual cues: finished books and books you don't own are dimmer so it's easier to find the next book in the series.
 
 * <img src="../.gitbook/assets/icon-open-in-app.jpg" alt="" data-size="original"> **Open in Audible's mobile app** _(if possible)_
 * <img src="../.gitbook/assets/icon-not-started.jpg" alt="" data-size="original"> **Not started** - Clicking these books takes you to the **series sub page**.

@@ -13,7 +13,7 @@ After the extraction is done, a new tab with the gallery is opened in its place.
 {% endhint %}
 
 {% hint style="info" %}
-The data is never updated automatically. If you have finished any books, started, rated or just added new books, you will have to do this extraction process again in order to view up to date data in the gallery, however,  after extracting the data once, the extension will do a faster extraction that simply updates necessary items.
+The extension basically takes a snapshot of your current data at that moment in tim, so the data is never updated automatically. If you have finished any books, started, rated or just added new books, you will have to do this extraction process again in order to view up to date data in the gallery. However, after extracting the data once, the extension will do a faster extraction that simply updates necessary items.
 {% endhint %}
 
 {% hint style="warning" %}

@@ -8,7 +8,7 @@ With the [Wallpaper Creator](broken-reference) you can create this type of image
 Video of the process. No audio.
 {% endembed %}
 
-### Steps
+### Steps (also in the video)
 
 1. Create a collection in Audible with all the books you've finished. Probably the best way would be to add books to the collection as soon as you finish, but otherwise going down the list of finished books in your library sorted by recent adding them to the collection might be the second easiest way, which I find especially easy in the mobile app.
 2. [Install](../../installation/) the extension
@@ -16,7 +16,7 @@ Video of the process. No audio.
 4. In the gallery, go to the collection page with the books.
 5. Top right of the gallery click the wallpaper creator icon (you may want to sort before this). You can also sort manually in the editor.
 6. Use the canvas preset `card`. Edit the settings any way you want...
-7. Save the image
+7. Save the image using the big blue jbutton with a camera icon.
 
 {% hint style="info" %}
 If you upload the [gallery online](../../sharing/uploading-to-github/), you can also link straight to the collection like this: [My year so far (2021)](https://joonaspaakko.github.io/my-audible-library/#/collections/e4370436-1a86-4154-a0e6-b366d4ef88dd)
@@ -25,7 +25,7 @@ If you upload the [gallery online](../../sharing/uploading-to-github/), you can 
 {% hint style="warning" %}
 The default canvas width for the card preset is 1200px and if you increase the "covers per row" setting, the canvas width stays the same... Meaning that the more covers you fit into one row, the smaller the cover size is going to be, making it hard to read any text on the cover in some cases. So I recommend previewing the image at 100% zoom before or after saving it.&#x20;
 
-> To make the covers bigger, just increase the canvas width, like perhaps anywhere between `2000-4000px`. There may be a point where the file size becomes too big if you make it too large. You can also scale the entire image output by enabling the "scaled output" setting at the very bottom and then increasing the zoom level.
+> To make the covers bigger, just increase the canvas width, like perhaps anywhere between `2000-4000px.` You can also scale the entire image output by enabling the "scaled output" setting at the very bottom and then increasing the zoom level.
 {% endhint %}
 
 {% hint style="danger" %}
