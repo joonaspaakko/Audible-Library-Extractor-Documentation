@@ -4,7 +4,7 @@ description: 'Supported browsers: Chrome, Firefox, Edge, Opera, Brave'
 
 # Audible Library Extractor
 
-Automatically generates a searchable gallery from your Audible library. Additionally, you can extract collections and wishlist **** too. If you upload the gallery online, you can share it with others ([like this](https://joonaspaakko.github.io/my-audible-library/#/library)) or you can use the gallery to find your next listen on mobile and [easily open the book in Audible's mobile app](gallery/next-listen-mobile-use.md#open-book-in-audibles-mobile-app).
+Automatically generates a searchable gallery from a snapshot of your Audible library data. Additionally, you can extract collections and wishlist **** too. If you upload the gallery online, you can share it with others with an address [like this](https://joonaspaakko.github.io/my-audible-library/#/library), or you can use the gallery find your next listen on mobile and [easily open the book in Audible's mobile app](gallery/next-listen-mobile-use.md#open-book-in-audibles-mobile-app). That last part is shown in the “Mobile usage video below”.
 
 {% content-ref url="installation/" %}
 [installation](installation/)
@@ -16,7 +16,7 @@ Automatically generates a searchable gallery from your Audible library. Addition
 {% endtab %}
 
 {% tab title="Mobile usage video" %}
-Note: to get to this point, you need to [upload the gallery](sharing/uploading-to-github/) (website) online, go to the website on mobile and save it to the home screen on your phone.
+> Note: to get to this point, you need to upload the gallery (website) online ([more on how to do that for free here](sharing/uploading-to-github/)), then you just go to the website on mobile and save it to the home screen on your phone.
 
 {% embed url="https://youtu.be/TvjVbERMC-I" %}
 {% endtab %}

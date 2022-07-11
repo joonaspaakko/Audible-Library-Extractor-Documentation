@@ -28,7 +28,7 @@
 
 ## Wallpaper creator
 
-* [General info](wallpaper-creator/general-info/README.md)
+* [Wallpaper creator info](wallpaper-creator/general-info/README.md)
   * [Animated wallpapers](wallpaper-creator/general-info/animated-wallpapers/README.md)
     * [Plash](wallpaper-creator/general-info/animated-wallpapers/plash.md)
     * [Lively](wallpaper-creator/general-info/animated-wallpapers/lively.md)

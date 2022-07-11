@@ -19,7 +19,9 @@ You should see this prompt if this is your first time installing an extension fr
 ![](../.gitbook/assets/extension-edge-install-1.png)
 
 {% hint style="warning" %}
-If you don't see this **"Allow extensions from other stores"** prompt for some reason, you can also navigate to the address `edge://extensions` or alternatively, click the browser's horizontal 3 dot menu in the top right corner and choose `Extensions` and there at the bottom left corner, you can **enable** or **disable** the setting.
+If you don't see this **"Allow extensions from other stores"** prompt and you have istalled Chrome extensions before, you might be able to skip to step 4 and just click ”add to chrome”.
+
+If that isn’t an option, you can navigate to the address `edge://extensions` or alternatively, click the browser's horizontal 3 dot menu in the top right corner choose `Extensions` and on that extension page at the bottom left corner, you can **enable** or **disable** the setting that will allow you to install extensions from other stores.
 {% endhint %}
 
 ### 3. Confirm
