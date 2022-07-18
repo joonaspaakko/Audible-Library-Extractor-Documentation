@@ -7,12 +7,15 @@ Goodreads requires that all books you import have a ISBN, so during the CSV expo
 ### Steps:
 
 1. Fetch ISBN numbers _(if you haven't already)_&#x20;
-2. Export the CSV file using
-   1. Data source: Library
-   2. Compatibility: Goodreads
-3. Import this CSV file to Goodreads from [https://www.goodreads.com/review/import](https://www.goodreads.com/review/import)
-
-> You can also find your way to the import page from `Goodreads.com > My books` from the left sidebar.&#x20;
+   1. You can fetch ISBNs by doing a new extraction. Just make sure to check (select) the 4th item in the extraction settings before clicking the big blue ”Extract Selected Items” button, as you can briefly see in [the desktop usage video](https://youtu.be/LqplX-z-m0s?t=9\&autoplay=0). The linked video should start around 9 seconds in to the video where where the extraction settings are visible.
+2. Export the CSV file through the gallery by clicking the floppy disk icon on the top menu.
+   1. This opens up a modal window that first talks about saving the gallery locally and then below that you’ll find the CSV export.
+   2. Pick these settings when exporting:
+      1. Data source: Library
+      2. Compatibility: Goodreads
+   3. Click download
+3. Import he downloaded file to Goodreads from this page: [https://www.goodreads.com/review/import](https://www.goodreads.com/review/import)&#x20;
+   1. You can also find your way to the Goodreads import page from `Goodreads.com > My books` from the left sidebar.&#x20;
 
 ### Good to know!
 
