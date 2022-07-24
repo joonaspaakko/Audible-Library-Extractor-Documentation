@@ -8,13 +8,20 @@ You can open book details by clicking the cover in grid view or the row in sprea
 
 1. **Play sample**
 2. **Goodreads search**
+   * Searches for the opened book using the author's name and the book title.
 3. **Open in mobile app**&#x20;
    * On a desktop browser this opens the book's store page.
    * You can also find this button in front of every book in the  `My books in the series` list that sits under the rating.
    * This button also works with books from your wishlist or for any random visitor as it simply opens the store page/details page in the app.&#x20;
-   * If the store page doesn't open it could be because the specific version of the book no longer has a store page. At least on IOS I've recently noticed that sometimes when the app needs "wake up" when been for a long time or it's not open it will open the "search" tab in the app but won't go any further than that. If that happens, going back to ALE gallery, click done or go one page backward and clicking the button again and it should work.
+   * If the store page doesn't open it could be because the specific version of the book no longer has a store page.&#x20;
+     * That said, at least on IOS I've recently noticed that sometimes when the Audible app needs to "wake up" after a long time of idling, this button might trigger it to open the "search" tab in the Audible app but it won't go any further than that. If that happens:
+       * Go back to the gallery
+       * Close the in-app browser by clicking "done" to get back to the gallery
+       * Click the "open in mobile app" button again and it should work now
 4. **Web player**&#x20;
    * Only plays the book if you are logged in (or login) to Audible and you own the book. So there's no need to worry someone will be listening to your books if you share a link to the gallery.&#x20;
+   * If the web player throws an error saying "**An error occurred:** Your credentials have expired . Kindly sign in to listen", take a step back to the gallery with the book details open and click the book title above the summary to open its store page in audible and login from there. Now it should work for a while.&#x20;
+     * This is especially tricky if you've added the standalone gallery to your phone's hom screen, because it functions more like a native app and won't have an address bar so you could just go to audible and login, but the route outlined above works just fine.
    * The extension has no control over this player and its possible quirks. Like for example, there was nothing I could do when it just wouldn't play anything on IOS for a long time not so long ago. This icon button is simply a direct link to the web player offered and maintained by Audible.
 
 
