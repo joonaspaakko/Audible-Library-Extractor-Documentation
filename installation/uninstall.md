@@ -1,5 +1,9 @@
 # Uninstall
 
+{% hint style="info" %}
+Note: You can also disable the extension from the extensions page using the blue switch. Removing obviously deletes all extracted data, while disabling doesn't.
+{% endhint %}
+
 ### Chrome
 
 > ...and other Chromium based browsers
@@ -8,16 +12,8 @@
 2. On to the extension you want to remove, click **Remove**.
 3. Confirm by clicking **Remove**.
 
-{% hint style="info" %}
-You can also disable the extension from the extensions page Using the blue switch. Removing obviously deletes all extracted data, while disabling doesn't.
-{% endhint %}
-
 ### Firefox
 
 1. Click the menu button ![Fx89menuButton](https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/gallery/images/2021-05-15-11-18-38-e5b736.png), click Add-ons and Themes and select Extensions.
 2. Scroll through the list of extensions.
 3. Click the ellipsis (3-dot) icon for the extension you wish to remove and select Remove.
-
-{% hint style="info" %}
-You can also disable the extension from the extensions page Using the blue switch. Removing obviously deletes all extracted data, while disabling doesn't.
-{% endhint %}
