@@ -2,7 +2,11 @@
 
 You can open book details by clicking the cover in grid view or the row in spreadsheet view. In there on the left sidebar you got 4 icon buttons that can be extremely useful:
 
-![](../.gitbook/assets/book-details-icons.png)
+<div align="left">
+
+<img src="../.gitbook/assets/book-details-icons.png" alt="">
+
+</div>
 
 **Starting from the left:**
 
@@ -14,10 +18,6 @@ You can open book details by clicking the cover in grid view or the row in sprea
    * You can also find this button in front of every book in the  `My books in the series` list that sits under the rating.
    * This button also works with books from your wishlist or for any random visitor as it simply opens the store page/details page in the app.&#x20;
    * If the store page doesn't open it could be because the specific version of the book no longer has a store page.&#x20;
-     * That said, at least on IOS I've recently noticed that sometimes when the Audible app needs to "wake up" after a long time of idling, this button might trigger it to open the "search" tab in the Audible app but it won't go any further than that. If that happens:
-       * Go back to the gallery
-       * Close the in-app browser by clicking "done" to get back to the gallery
-       * Click the "open in mobile app" button again and it should work now
 4. **Web player**&#x20;
    * Only plays the book if you are logged in (or login) to Audible and you own the book. So there's no need to worry someone will be listening to your books if you share a link to the gallery.&#x20;
    * If the web player throws an error saying "**An error occurred:** Your credentials have expired . Kindly sign in to listen", take a step back to the gallery with the book details open and click the book title above the summary to open its store page in audible and login from there. Now it should work for a while.&#x20;

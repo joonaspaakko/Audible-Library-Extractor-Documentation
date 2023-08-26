@@ -1,10 +1,10 @@
 ---
-description: 'Supported browsers: Chrome, Firefox, Edge, Opera, Brave'
+description: 'Supported browsers: Chrome, Edge, Opera, Brave, Firefox (up to v.0.2.8)'
 ---
 
 # Audible Library Extractor
 
-Automatically generates a searchable gallery from a snapshot of your Audible library data. Additionally, you can extract collections and wishlist **** too. If you upload the gallery online, you can share it with others with an address [like this](https://joonaspaakko.github.io/my-audible-library/#/library), or you can use the gallery find your next listen on mobile and [easily open the book in Audible's mobile app](gallery/next-listen-mobile-use.md#open-book-in-audibles-mobile-app). That last part is shown in the “Mobile usage video below”.
+Automatically generates a searchable gallery from a snapshot of your Audible library data. Additionally, you can extract collections and wishlist too. If you upload the gallery online, you can share it with others with an address [like this](https://joonaspaakko.github.io/my-audible-library/#/library), or you can use the gallery find your next listen on mobile and [easily open the book in Audible's mobile app](gallery/next-listen-mobile-use.md#open-book-in-audibles-mobile-app). That last part is shown in the “Mobile usage video below”.
 
 {% content-ref url="installation/" %}
 [installation](installation/)
@@ -35,7 +35,7 @@ Automatically generates a searchable gallery from a snapshot of your Audible lib
   * **Pages**
     * [Library](https://joonaspaakko.github.io/my-audible-library/#/library)
     * Subpages (generated from library data)
-      * All of these can show books from the library or the wishlist depending on the availability _(Since v.0.2.6)_
+      * All of these can show books from the library or the wishlist depending on availability _(Since v.0.2.6)_
       * [Categories](https://joonaspaakko.github.io/my-audible-library/#/categories/)&#x20;
       * [Series](https://joonaspaakko.github.io/my-audible-library/#/series/)
       * [Authors](https://joonaspaakko.github.io/my-audible-library/#/authors/)
@@ -46,7 +46,7 @@ Automatically generates a searchable gallery from a snapshot of your Audible lib
     * **View modes**
       * [Grid](https://joonaspaakko.github.io/my-audible-library/#/library?view=grid)
       * [Spreadsheet](https://joonaspaakko.github.io/my-audible-library/#/library?view=spreadsheet) (readonly)
-* ****[**CSV export**](gallery/csv-export/)****
+* [**CSV export**](gallery/csv-export/)
   * CSV files can be opened in any spreadsheet application, like say Excel.
   * Compatibility options
     * **Google Sheets:**
@@ -58,7 +58,7 @@ Automatically generates a searchable gallery from a snapshot of your Audible lib
 
 ## In Github
 
-This is an open source project so all the source files can be found in Github.
+Source code is available in Github.
 
 * [Github project page](https://github.com/joonaspaakko/audible-library-extractor)
 * [Github issues page](https://github.com/joonaspaakko/audible-library-extractor)

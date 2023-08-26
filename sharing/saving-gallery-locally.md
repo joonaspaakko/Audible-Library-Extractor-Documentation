@@ -1,6 +1,6 @@
 # Saving gallery locally
 
-Technically after you've extracted the metadata, a version of the gallery is accessible locally, but that is directly tied to the extension environment and your browser, so you have to have the extension installed and data extracted to see it. However, the gallery can be saved as a stand-alone gallery by clicking the floppy disk icon 💾 at the top of the extension’s gallery page.
+Technically after you've extracted the metadata, a version of the gallery is accessible locally, but that is directly tied to the extension environment and your browser, so you have to have the extension installed and data extracted to see it. However, you can save a stabalone gallery through the <mark style="color:orange;">**Extension tools**</mark> menu item.
 
 {% tabs %}
 {% tab title="Advanced sharing (link sharing)" %}
@@ -24,7 +24,9 @@ You can also save a CSV file in that same modal window. This CSV file could be i
 {% endtab %}
 
 {% tab title="Simple sharing (old school)" %}
-One option for sharing the gallery would be to send the saved zip file via email. The receiver can unpack the zip and open the `index.html` file in a browser to view the gallery locally. Double clicking the file should open it in your default browser.
+> This method is no longer possible since v.0.2.9
+
+~~One option for sharing the gallery would be to send the saved zip file via email. The receiver can unpack the zip and open the `index.html` file in a browser to view the gallery locally. Double clicking the file should open it in your default browser.~~
 {% endtab %}
 {% endtabs %}
 
