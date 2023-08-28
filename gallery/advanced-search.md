@@ -80,6 +80,6 @@ A search query like this:
 "Storm Front" | "demon accords" "Book 1"$ | ^hunted | The Grave Kingdom "book 1"$
 ```
 
-...would return [these 4 books](https://joonaspaakko.github.io/my-audible-library/#/library?scope=title\&search=%2522Storm%2520Front%2522%2520%257C%2520%2522demon%2520accords%2522%2520%2522Book%25201%2522%2524%2520%257C%2520%255Ehunted%2520%257C%2520The%2520Grave%2520Kingdom%2520%2522book%25201%2522%2524\&sortValues=true\&y=0) from my library.
+...would return [these 4 books](https://joonaspaakko.github.io/my-audible-library/#/library?scope=title\&search=%2522Storm%2520Front%2522%2520%257C%2520%2522demon%2520accords%2522%2520%2522Book%25201%2522%2524%2520%257C%2520%255Ehunted%2520%257C%2520The%2520Grave%2520Kingdom%2520%2522book%25201%2522%2524\&sortValues=true\&sort=title\&sortDir=asc) from my library.
 
 > I deliberately made each search term specific enough to return 1 book each, but the results of this example may change in the future as my library changes.
