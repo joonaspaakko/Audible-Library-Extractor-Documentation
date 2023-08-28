@@ -60,11 +60,11 @@ contains 'demon' or 'accords'
 
 Before looking at the full list of search operators, here's a quick recap of what I've said so far about the **and** + **or** operators but this time I'm adding the **$** operator into the mix, which equates to "ends in" the supplied search query.
 
-| Search query                   | Meaning                                                            |
-| ------------------------------ | ------------------------------------------------------------------ |
-| **`book 1$`**                  | contains "book" **and** ends in "1"                                |
-| **`"book 1"$`**                | ends in "book 1"                                                   |
-| **`theft "volume 1" \| npcs`** | contains "theft" **and** ends in "volume 1" **or** contains "npcs" |
+| Search query                    | Meaning                                                            |
+| ------------------------------- | ------------------------------------------------------------------ |
+| **`book 1$`**                   | contains "book" **and** ends in "1"                                |
+| **`"book 1"$`**                 | ends in "book 1"                                                   |
+| **`theft "volume 1"$ \| npcs`** | contains "theft" **and** ends in "volume 1" **or** contains "npcs" |
 
 ### All search operators
 
