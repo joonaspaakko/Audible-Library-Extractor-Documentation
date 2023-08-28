@@ -9,7 +9,7 @@
 ## Gallery
 
 * [Opening the gallery](gallery/opening-the-gallery.md)
-* [Find next listen & mobile use](gallery/next-listen-mobile-use.md)
+* [Find next listen on mobile](gallery/next-listen-mobile-use.md)
 * [My books in the series list](gallery/my-books-in-the-series-list.md)
 * [Icon bar in book details](gallery/book-details-icons.md)
 * [Spreadsheet view](gallery/spreadsheet-view.md)

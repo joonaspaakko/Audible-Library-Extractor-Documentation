@@ -1,6 +1,6 @@
 # Google Sheets import
 
-I chose to write instructions for Google Sheets as it's the most accessible option with public link sharing. The image formulas are a nice addition too, I think. Here's an example of [what my library looks like in Google Sheets](https://docs.google.com/spreadsheets/d/1clOlIEPB\_7Ukrq4Don-ANQg201iwRGy8EYFPvQM7DJA/edit?usp=sharing) (after some edits that I've outlined [below](google-sheets-import.md#google-sheets-edits)).&#x20;
+I chose to write instructions for Google Sheets as it's the most accessible option and it even has public link sharing. The image formulas are a nice addition too, I think. Here's an example of [what my library looks like in Google Sheets](https://docs.google.com/spreadsheets/d/1clOlIEPB\_7Ukrq4Don-ANQg201iwRGy8EYFPvQM7DJA/edit?usp=sharing) (after some edits that I've outlined [below](google-sheets-import.md#google-sheets-edits)).&#x20;
 
 {% hint style="info" %}
 Google Sheets import isn't more difficult than with any other application, so if you are confident you know how to import files to Google Sheets, you can skip these instructions but just make sure to check the checkbox that says "**Convert text to numbers, dates and formulas**", so the Google Sheets compatible formulas will execute.&#x20;
@@ -45,5 +45,5 @@ These are just some edits that I would consider essential, but I am pretty parti
    * From the top menu `View > Freeze` `>` `Up to current row (1)`
    * From the top menu `View > Freeze` `>` `Up to current column (F)`
 7. **From the top menu: `Format > Alternating colors`**
-8. **I also hid some columns: `Right-click on the column header`  `>`  `Hide column` and adjusted several column widths.**
+8. **I also hid some columns: `Right-click on the column header`** **`>`** **`Hide column` and adjusted several column widths.**
    * I opted to hide some unnecessary columns rather than move any, because next time I update the list by import, I don't want to have to fiddle with the order. There is no way to control the column order on export from the gallery.
