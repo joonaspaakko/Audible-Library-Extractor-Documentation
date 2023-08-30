@@ -21,7 +21,7 @@
 
 ## Sharing
 
-* [Saving gallery locally](sharing/saving-gallery-locally.md)
+* [Saving standalone gallery](sharing/saving-gallery-locally.md)
 * [Uploading to Github](sharing/uploading-to-github/README.md)
   * [Updating gallery in Github](sharing/uploading-to-github/updating-gallery-in-github.md)
   * [Check if changes are online](sharing/uploading-to-github/double-check-if-site-is-online.md)

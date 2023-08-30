@@ -10,19 +10,19 @@ Example of an animated wallpaper I uploaded online [**here**](https://joonaspaak
 
 ### **Mac apps**
 
-1. ****[**Plash**](https://sindresorhus.com/plash) (free) macOS 11 or later.&#x20;
+1. [**Plash**](https://sindresorhus.com/plash) (free) macOS 11 or later.&#x20;
    * [Instructions](plash.md) for Plash
    * There's also 10.5 compatible version in the [Plash's github repository](https://github.com/sindresorhus/Plash#download).
-2. ****[**WebViewScreensaver**](https://github.com/liquidx/webviewscreensaver) (free)&#x20;
+2. [**WebViewScreensaver**](https://github.com/liquidx/webviewscreensaver) (free)&#x20;
    * To be super clear, this app allows you to set it as your screensaver and not as a wallpaper.
    * Download the .zip file from github [releases](https://github.com/liquidx/webviewscreensaver/releases/latest).
    * No guide for this, but quickly, when you open the `WebViewScreenSaver.saver` , it gets added to your screensavers and you need to add a local path to the `index.html` file in the `url` input.
 
 ### **Windows apps**
 
-1. ****[**Lively**](https://github.com/rocksdanister/lively) (free)&#x20;
+1. [**Lively**](https://github.com/rocksdanister/lively) (free)&#x20;
    * [Instructions](lively.md) for Lively
-2. ****[**Wallpaper Engine**](https://www.wallpaperengine.io) (\~$4)&#x20;
+2. [**Wallpaper Engine**](https://www.wallpaperengine.io) (\~$4)&#x20;
    * [Instructions](wallpaper-engine.md) for Wallpaper Engine
    * This can also make the wallpaper your screensaver.
 

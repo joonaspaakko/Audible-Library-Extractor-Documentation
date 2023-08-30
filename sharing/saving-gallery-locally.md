@@ -1,12 +1,16 @@
-# Saving gallery locally
+# Saving standalone gallery
 
-Technically after you've extracted the metadata, a version of the gallery is accessible locally, but that is directly tied to the extension environment and your browser, so you have to have the extension installed and data extracted to see it. However, you can save a stabalone gallery through the <mark style="color:orange;">**Extension tools**</mark> menu item.
+After you've extracted the data, you can view the gallery locally, but that is directly tied to the extension environment and your browser, meaning that you have to have the extension installed and data extracted to see it.&#x20;
+
+However, you can save the gallery or it's data through the gallery page's <mark style="color:orange;">**"Extension tools"**</mark> menu item and access it from a mobile device. Or share the link with a friend who can then view your library and wishlist. I've outlined all the main methods below:
 
 {% tabs %}
-{% tab title="Advanced sharing (link sharing)" %}
-The best way to share your library would be to upload the unpacked gallery files online as a website, which also allows you to use it on a mobile device. **You can get a library website running for free in Github** and you even get a reasonable domain name to go with it, but that said it does have quite a few steps. Sharing the gallery from that point on is as simple as sending someone the address. For example, here's [my Audible library in Github](https://joonaspaakko.github.io/my-audible-library/).&#x20;
+{% tab title="Standalone gallery (website)" %}
+The best way to share your library would be to save the standalone gallery from **Extension tools > Save gallery website,** then upload the unpacked gallery files online as a website, which also allows you to use it on [a mobile device](../gallery/next-listen-mobile-use.md).&#x20;
 
-After you've done it once, updating the website is way simpler now that you have an account, a repository, and Github Desktop installed.
+> **You can get a library website running for free in Github** and you even get a reasonable domain name to go with it. It isn't overly complicated, but it does have quite a few steps.
+
+From that point on, using the standalone gallery yourself or showing it to a friend is as simple as sending the website address. For example, here's [my Audible library in Github](https://joonaspaakko.github.io/my-audible-library/).&#x20;
 
 > Of course, you can upload the files to your personal website too if you want.
 
@@ -16,7 +20,9 @@ After you've done it once, updating the website is way simpler now that you have
 {% endtab %}
 
 {% tab title="Google sheets" %}
-You can also save a CSV file in that same modal window. This CSV file could be imported to Google Sheets, which is potentially a slightly easier way to share your library or wishlist or a filtered section of your library with a public link.
+From **Extension tools > CSV export (spreadsheet)** you can save a CSV file that is usable in any spreadsheet application. I tend to recommend Google Sheets because it's free and you can even share a public link to it.&#x20;
+
+This is potentially simpler than sharing the standalone gallery since there are not as many steps in the process and the concept of uploading a website online is probably more alien to people compared to importing a document to Google Sheets.
 
 {% content-ref url="../gallery/csv-export/" %}
 [csv-export](../gallery/csv-export/)
@@ -24,8 +30,8 @@ You can also save a CSV file in that same modal window. This CSV file could be i
 {% endtab %}
 
 {% tab title="Simple sharing (old school)" %}
-> This method is no longer possible since v.0.2.9
+> This method is no longer possible since v.0.2.9.
 
-~~One option for sharing the gallery would be to send the saved zip file via email. The receiver can unpack the zip and open the `index.html` file in a browser to view the gallery locally. Double clicking the file should open it in your default browser.~~
+~~One option for sharing the gallery would be to send the stand-alone gallery as a zip file via email. The receiver can unpack the zip and open the `index.html` file in a browser to view the gallery locally. Double-clicking the file should open it in your default browser.~~
 {% endtab %}
 {% endtabs %}

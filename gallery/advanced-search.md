@@ -28,9 +28,8 @@ contains 'demon' and 'accords'
 
 You can also nullify the **`and`** operator by wrapping the words in double quotes **`"`**. This is basically the same as in Google search. It will then look for the exact match for a word or a sentence
 
-```
-demon accords
-```
+<pre><code><strong>"demon accords"
+</strong></code></pre>
 
 ...would translate to&#x20;
 
