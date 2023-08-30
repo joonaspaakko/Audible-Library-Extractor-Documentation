@@ -1,8 +1,8 @@
 # Year in review image
 
-​
+With the [Wallpaper Creator](broken-reference), you can easily create a collage from your library book covers pretty easily. The best way to do this is to create a collection in Audible you keep adding books you finished and then just save an image of it.&#x20;
 
-With the [Wallpaper Creator](broken-reference) you can create this type of image pretty easily. The time consuming part is that you need to create and fill a collection with all the books you listened to. I've been adding books in my collection about as soon as I finished them, so I haven't had to spend a lot of time making the collection in one sitting.
+> Starting from v.0.2.9 there's a tier list mode that would also work for this type of image.
 
 {% embed url="https://youtu.be/jC1R98BxFPc" %}
 Video of the process. No audio.
@@ -18,20 +18,8 @@ Video of the process. No audio.
 6. Use the canvas preset `card`. Edit the settings any way you want...
 7. Save the image using the big blue jbutton with a camera icon.
 
-{% hint style="info" %}
-If you upload the [gallery online](../../sharing/uploading-to-github/), you can also link straight to the collection like this: [My year so far (2021)](https://joonaspaakko.github.io/my-audible-library/#/collections/e4370436-1a86-4154-a0e6-b366d4ef88dd)
-{% endhint %}
+> Note: if you upload the [gallery online](../../sharing/uploading-to-github/), you can also link straight to the collection.
 
-{% hint style="warning" %}
-The default canvas width for the card preset is 1200px and if you increase the "covers per row" setting, the canvas width stays the same... Meaning that the more covers you fit into one row, the smaller the cover size is going to be, making it hard to read any text on the cover in some cases. So I recommend previewing the image at 100% zoom before or after saving it.&#x20;
-
-> To make the covers bigger, just increase the canvas width, like perhaps anywhere between `2000-4000px.` You can also scale the entire image output by enabling the "scaled output" setting at the very bottom and then increasing the zoom level.
-{% endhint %}
-
-{% hint style="danger" %}
-Make sure the "Limit covers" setting includes all the books in the collection... The default for collections is 50, but if you want to save an image with more covers, it's absolutely fine to increase it.
-{% endhint %}
-
-### Image I saved in the video
+### The image I saved in the video
 
 ![](<../../.gitbook/assets/My year so far 2021.jpg>)
