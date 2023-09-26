@@ -1,7 +1,5 @@
 # How to use the extension
 
-### Usage
-
 1. Go to your Audible library
 2. Click the **Audible ​Library ​Extractor** button
 3. In the next view, you can choose what to extract and start the extraction process by clicking the big blue button.
