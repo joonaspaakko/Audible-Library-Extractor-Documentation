@@ -1,6 +1,6 @@
 # Wallpaper creator info
 
-The wallpaper creator _(since v.0.2.7)_ can be used to create a gridded collage image using book covers from your extracted data: library, wishlist, collections, categories, etc...
+The wallpaper creator can be used to create a gridded collage image using book covers from your extracted data: library, wishlist, collections, categories, etc...
 
 <img src="../../.gitbook/assets/ale-image-editor-screenshot.png" alt="" data-size="original"> <img src="../../.gitbook/assets/ale image editor - image 1280×640px.png" alt="" data-size="original">
 
