@@ -1,6 +1,6 @@
 # Year in review image
 
-With the [Wallpaper Creator](broken-reference) included in the extension you can easily create a collage image using book covers from your Audible library, and the best way to do that to the books you finished this year is to first create a collection in Audible, extract library data, and generate the image. More instructions below.
+With the [Wallpaper Creator](https://app.gitbook.com/s/-MYEqifgVz0mmN-iKhNQ/wallpaper-creator) included in the extension you can easily create a collage image using book covers from your Audible library, and the best way to do that to the books you finished this year is to first create a collection in Audible, extract library data, and generate the image. More instructions below.
 
 {% embed url="https://youtu.be/jC1R98BxFPc" %}
 Video of the process (somewhat outdated). No audio.

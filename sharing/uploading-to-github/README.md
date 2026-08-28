@@ -64,11 +64,7 @@ After you've created a new project (`repository`), you should see a button on th
 
 If you haven't already, save the standalone gallery to your hard drive **Extension tools > Save gallery website.**
 
-<div align="center" data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/save-standalone-gallery.png" alt="" width="375"><figcaption><p>After that it's pretty self explanatory...</p></figcaption></figure>
-
-</div>
+<div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/save-standalone-gallery.png" alt="" width="375"><figcaption><p>After that it's pretty self explanatory...</p></figcaption></figure></div>
 
 Depending on how you unpack the zip file you'll likely end up with a folder called `ALE-gallery` right next to the zip file. I ended up moving the ALE-gallery.zip file into the repository folder (see the "my-audible-library" title at the top of this gif below)
 
@@ -89,7 +85,7 @@ In hindsight, it may be simpler if you unpack the zip in the downloads folder an
 When you open Github Desktop again, it'll look a bit different because of the files you added. What you need to do is **add a summary** and **save changes** using the `Commit to main` button. If you want to keep the summary short, use the dash character `-`.
 
 {% hint style="info" %}
-In regular projects **`Summary`** and **`Description`**are meant to inform everyone involved what was changed. In this case it doesn’t matter much, but you are required to add **`Summary`** every time you save (`commit`), hence the dash character.&#x20;
+In regular projects **`Summary`** and **`Description`**&#x61;re meant to inform everyone involved what was changed. In this case it doesn’t matter much, but you are required to add **`Summary`** every time you save (`commit`), hence the dash character.&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/5 - Save changes.png>)

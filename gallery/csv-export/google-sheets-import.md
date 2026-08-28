@@ -1,6 +1,6 @@
 # Google Sheets import
 
-I chose to write instructions for Google Sheets as it's the most accessible option and it even has public link sharing. The image formulas are a nice addition too, I think. Here's an example of [what my library looks like in Google Sheets](https://docs.google.com/spreadsheets/d/1clOlIEPB\_7Ukrq4Don-ANQg201iwRGy8EYFPvQM7DJA/edit?usp=sharing) (after some edits that I've outlined [below](google-sheets-import.md#google-sheets-edits)).&#x20;
+I chose to write instructions for Google Sheets as it's the most accessible option and it even has public link sharing. The image formulas are a nice addition too, I think. Here's an example of [what my library looks like in Google Sheets](https://docs.google.com/spreadsheets/d/1clOlIEPB_7Ukrq4Don-ANQg201iwRGy8EYFPvQM7DJA/edit?usp=sharing) (after some edits that I've outlined [below](google-sheets-import.md#google-sheets-edits)).&#x20;
 
 {% hint style="info" %}
 Google Sheets import isn't more difficult than with any other application, so if you are confident you know how to import files to Google Sheets, you can skip these instructions but just make sure to check the checkbox that says "**Convert text to numbers, dates and formulas**", so the Google Sheets compatible formulas will execute.&#x20;
@@ -11,7 +11,7 @@ Google Sheets import isn't more difficult than with any other application, so if
 1.  From the top menu `File > Import:`Choose the `Upload` tab from the Import file dialog
 
     <img src="../../.gitbook/assets/google-sheets-upload-dialog.png" alt="" data-size="original">
-2. After uploading a file you get the Import file dialog**:**&#x20;
+2. After uploading a file you get the Import file dialo&#x67;**:**&#x20;
    * **Import location**: `Create new spreadsheet` or `Replace current sheet`
      * If you update a spreadsheet you've already imported once, using `Replace current sheet` will place the new data on top of the old data and it retains a lot of the general formatting, but unfortunately not all of it.
    * **Separator type**: `Detect automatically`
@@ -22,7 +22,7 @@ Google Sheets import isn't more difficult than with any other application, so if
 
 These are just some edits that I would consider essential, but I am pretty particular about my spreadsheets. You can leave it be after the export if you feel like it's fine as it is, but this list below should help if you want cleaner formatting.&#x20;
 
-> This is what [my library](https://docs.google.com/spreadsheets/d/1clOlIEPB\_7Ukrq4Don-ANQg201iwRGy8EYFPvQM7DJA/edit?usp=sharing) looks like after these edits. This is the same link as above. If you saw that, there's nothing new behind this link.
+> This is what [my library](https://docs.google.com/spreadsheets/d/1clOlIEPB_7Ukrq4Don-ANQg201iwRGy8EYFPvQM7DJA/edit?usp=sharing) looks like after these edits. This is the same link as above. If you saw that, there's nothing new behind this link.
 
 1. **Make sure cell contents don't overflow:**&#x20;
    * Click the top left corner of the header to select every single cell&#x20;
